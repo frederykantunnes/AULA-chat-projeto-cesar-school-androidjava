@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "586754993369",
+    "firebase_url": "https://chat-26afd.firebaseio.com",
+    "project_id": "chat-26afd",
+    "storage_bucket": "chat-26afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586754993369:android:228f52497f639a81",
+        "android_client_info": {
+          "package_name": "br.com.frederykantunnes.projetochatcesar_androidavancado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586754993369-uf2tad5e8qmvqho2mpe59vhmas7k1v2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.frederykantunnes.projetochatcesar_androidavancado",
+            "certificate_hash": "43371316ccfeab57614feeb96ae8151751620af7"
+          }
+        },
+        {
+          "client_id": "586754993369-7fhg2uk4u1ddj03rbhscivt2bbt3ff70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMQPKVHPHFRgjTqLSWaKcIS5u5BdgMvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586754993369-7fhg2uk4u1ddj03rbhscivt2bbt3ff70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586754993369:android:a5f598b66465b8e9",
+        "android_client_info": {
+          "package_name": "br.com.legsassessoria.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586754993369-s6k4e5fdatlh4vrpeji5df6r5k2pcim0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.legsassessoria.login",
+            "certificate_hash": "43371316ccfeab57614feeb96ae8151751620af7"
+          }
+        },
+        {
+          "client_id": "586754993369-7fhg2uk4u1ddj03rbhscivt2bbt3ff70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMQPKVHPHFRgjTqLSWaKcIS5u5BdgMvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586754993369-7fhg2uk4u1ddj03rbhscivt2bbt3ff70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586754993369:android:8aa3c74bba3f5d15",
+        "android_client_info": {
+          "package_name": "br.com.legsassessoria.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586754993369-rj5o4a104q3isdjl2t6n4cmjoaoeej2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.legsassessoria.myapplication",
+            "certificate_hash": "43371316ccfeab57614feeb96ae8151751620af7"
+          }
+        },
+        {
+          "client_id": "586754993369-7fhg2uk4u1ddj03rbhscivt2bbt3ff70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMQPKVHPHFRgjTqLSWaKcIS5u5BdgMvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586754993369-7fhg2uk4u1ddj03rbhscivt2bbt3ff70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
